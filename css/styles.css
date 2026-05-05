@@ -11721,12 +11721,3 @@ html {
     width: 1.5vw;
     left: -2vw;
   }
-}
-.certificate-slider {
-    scroll-behavior: smooth;
-    scrollbar-width: none; /* Firefox */
-}
-
-.certificate-slider::-webkit-scrollbar {
-    display: none; /* Chrome */
-}
